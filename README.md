@@ -1,8 +1,8 @@
-# 🏥 Living Patient Appointment Experience
+#  Living Patient Appointment Experience
 
-A modern, mobile-first healthcare application designed to guide patients through every step of their medical journey—from symptom checking to appointment booking, hospital navigation, and post-visit follow-up.
+A modern, mobile-first healthcare application designed to guide patients through every step of their medical journey from symptom checking to appointment booking, hospital navigation, and post-visit follow-up.
 
-## 👩‍💼 Student Information
+##  Student Information
 
 | Field | Details |
 |-------|---------|
@@ -10,19 +10,19 @@ A modern, mobile-first healthcare application designed to guide patients through
 | **Registration Number** | 25RP01964 |
 | **Repository** | [github.com/christella06/25RP01964](https://github.com/christella06/25RP01964.git) |
 
-## ✨ Features
+##  Features
 
 - **Symptom Recognition**: Smart, reassuring symptom selection interface
 - **Doctor Finder**: AI-recommended healthcare providers based on symptoms
 - **Appointment Booking**: Quick and intuitive booking system with date/time selection
 - **Hospital Check-in**: Real-time hospital arrival tracking and verification
 - **Waiting Room**: Live queue position and estimated wait times
-- **Post-Visit Summary**: Diagnosis, medications, and follow-up care instructions
+- **Post-Visit Summary**: Diagnosis, medications, and follow up care instructions
 - **Follow-up Reminders**: Personalized reminder notifications and care tracking
 - **Glasmorphism UI**: Modern frosted glass design with smooth animations
 - **Responsive Design**: Fully optimized for mobile, tablet, and desktop devices
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Frontend Framework**: React 19
 - **Build Tool**: Vite
@@ -31,7 +31,7 @@ A modern, mobile-first healthcare application designed to guide patients through
 - **State Management**: React Hooks
 - **Animations**: CSS transitions and keyframe animations
 
-## 📦 Project Structure
+##  Project Structure
 
 ```
 25RP01964/
@@ -56,7 +56,7 @@ A modern, mobile-first healthcare application designed to guide patients through
 └── package.json                      # Dependencies and scripts
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js 16+ 
@@ -88,7 +88,7 @@ npm run build
 ```
 Generated files will be in the `dist/` directory.
 
-## 🎨 Design System
+##  Design System
 
 ### Color Palette
 - **Primary**: Emerald (`emerald-600` to `emerald-800`)
@@ -102,7 +102,7 @@ Generated files will be in the `dist/` directory.
 - **Body**: Medium weight, readable (14px - 16px)
 - **Captions**: Small, secondary text (12px - 13px)
 
-## 📱 User Flow
+##  User Flow
 
 1. **Home Page** → User lands on welcoming glasmorphic interface
 2. **Symptom Selection** → User chooses relevant symptoms
@@ -114,7 +114,7 @@ Generated files will be in the `dist/` directory.
 8. **Visit Summary** → Post-visit diagnosis and medication info
 9. **Follow-up Care** → Reminders and next steps
 
-## 🎯 Key Features Explained
+##  Key Features Explained
 
 ### Glasmorphism Design
 - Semi-transparent cards with `backdrop-blur` effect
@@ -143,7 +143,7 @@ Generated files will be in the `dist/` directory.
 | `npm run preview` | Preview production build locally |
 | `npm run lint` | Run ESLint checks |
 
-## 📋 Component Documentation
+##  Component Documentation
 
 ### HomePage
 - Main entry point with glasmorphic design
@@ -175,7 +175,7 @@ Generated files will be in the `dist/` directory.
 - Reminder toggle functionality
 - Care instructions and next steps
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This project demonstrates:
 - React component composition and state management
@@ -185,7 +185,7 @@ This project demonstrates:
 - Healthcare application workflow design
 - Mobile-first development approach
 
-## 📝 Notes
+##  Notes
 
 - The app uses client-side state management (React hooks)
 - All styling is handled through Tailwind CSS
@@ -200,4 +200,4 @@ This project demonstrates:
 
 ---
 
-**Built with ❤️ for better patient care experiences**
+**Built for better patient care experiences**
