@@ -192,7 +192,7 @@ This project demonstrates:
 - Icons are from lucide-react library
 - No external backend required (demo mode)
 
-## 📧 Contact
+##  Contact
 
 **Student**: INEZA Christella  
 **Registration**: 25RP01964  
